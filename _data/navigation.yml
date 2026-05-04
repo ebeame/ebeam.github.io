@@ -6,13 +6,14 @@
 #
 # NOTE that only one of the CV options should be selected, the first is for the
 #      Markdown formatted page while the second is generated using JSON.
+# The following is the order of the links in the header of the website.
 
 main:
   - title: "Publications"
     url: /publications/
 
   - title: "Portfolio"
-    url: /portfolio/     
+    url: /portfolio/
 
   - title: "CV"
     url: /cv/
